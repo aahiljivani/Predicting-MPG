@@ -1,7 +1,7 @@
 # Predicting MPG Using scikit-learn
 
 ## Overview
-This Jupyter notebook provides a comprehensive guide to predicting the miles per gallon (MPG) of vehicles using machine learning techniques in Python. Utilizing the scikit-learn library, one of the most popular tools for machine learning, the notebook demonstrates data preprocessing, model selection, training, and evaluation.
+This Jupyter notebook uses Scikit-Learn to predict the miles per gallon (MPG) of vehicles using machine learning in Python. The notebook demonstrates data preprocessing, model selection, training, and evaluation.
 
 ## Features
 
